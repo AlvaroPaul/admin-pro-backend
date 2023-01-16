@@ -11,6 +11,9 @@ const app = express();
 //configurar CORS
 app.use(cors());
 
+//crapeta publica
+app.use( express.static('public') );
+
 //lectura y paseo del body
 app.use(express.json());
 
