@@ -17,7 +17,7 @@ router.post( '/',
         check('nombre', 'nombre obligatorio').not().isEmpty(),
         check('password','password obligatorio').not().isEmpty(),
         check('email', 'email obligatorio').isEmail(),
-        validarCampos,
+        //validarCampos,
     ],
     crearUsuario
 );

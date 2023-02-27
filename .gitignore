@@ -1,1 +1,13 @@
 node_modules/
+
+uplaods/hospitales/**.jpg
+uplaods/hospitales/**.png
+uplaods/hospitales/**.gif
+
+uplaods/medicos/**.jpg
+uplaods/medicos/**.png
+uplaods/medicos/**.gif
+
+uplaods/usuarios/**.jpg
+uplaods/usuarios/**.png
+uplaods/usuarios/**.gif
